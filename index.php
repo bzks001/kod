@@ -19,5 +19,5 @@ echo <<<EOT
     </body>
     </html>
 EOT;
-echo "a"
+echo "a";
 ?>
